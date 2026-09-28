@@ -1,7 +1,9 @@
+version: 2026.240.1943
 stepkind-build-consumer:
     candy:
+        version: 2026.182.0900
         candy:
-            - '@github.com/opencharly/plugin-example-stepkind/candy/plugin-example-stepkind:v2026.242.0528'
+            - '@github.com/opencharly/plugin-example-stepkind/candy/plugin-example-stepkind:v2026.239.1641'
         description: |-
             Reference CONSUMER candy for the F-STEP-EMIT build leg — the STEP-class analogue of
             candy/examplestep-consumer (which consumes the VERB-class examplestep at box build).
