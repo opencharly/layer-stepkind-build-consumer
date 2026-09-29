@@ -50,7 +50,7 @@ its token inside the deployed container.
 
 ## Related
 
-- Owning family skill: `/charly-internals:install-plan` (the `InstallPlan` /
+- Family skill: `/charly-internals:install-plan` (the `InstallPlan` /
   `deploykit.OCITarget` external-step build-emit arm)
 - Plugin: [`plugin-example-stepkind`](https://github.com/opencharly/plugin-example-stepkind)
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
